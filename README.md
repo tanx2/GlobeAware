@@ -1,3 +1,10 @@
+
+
+https://github.com/tanx2/GlobeAware/assets/68131884/110328e8-c50f-40a1-b2ba-ff7d5d05e16b
+
+
+
+
 [node]: https://nodejs.org/en
 [yarn]: https://yarnpkg.com
 [pnpm]: https://pnpm.io
